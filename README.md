@@ -1,6 +1,8 @@
 # e_cart
 
 Interview Task
+-----------------------------------------
+snackbar and toast are used
 
 ## Getting Started
 
