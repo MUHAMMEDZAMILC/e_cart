@@ -25,9 +25,12 @@ class ApiService {
       }
     }
     } on SocketException{
+
       snackBar(context, message: 'Network is Offline');
+      return empty;
     } catch (e) {
       showcustomtoast(context, message: 'Error Occur $e');
+      return empty;
       // throw Exception(e);
     }
 
