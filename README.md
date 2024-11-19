@@ -1,6 +1,6 @@
 # e_cart
 
-A new Flutter project.
+Interview Task
 
 ## Getting Started
 
